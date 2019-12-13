@@ -1,0 +1,11 @@
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Release\DoAnCTDL.exe.config
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Release\DoAnCTDL.exe
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Release\DoAnCTDL.pdb
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.csprojAssemblyReference.cache
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.Properties.Resources.resources
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.csproj.GenerateResource.cache
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.exe
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.pdb
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.LyThuyet.resources
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.Choose.resources
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Release\DoAnCTDL.UngDung.resources

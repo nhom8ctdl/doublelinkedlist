@@ -1,0 +1,25 @@
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csprojAssemblyReference.cache
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Debug\WindowsFormsApp3.exe
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Form2.resources
+C:\Users\HNC\source\repos\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CopyComplete
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csprojResolveAssemblyReference.cache
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.LyThuyet.resources
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Choose.resources
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.UngDung.resources
+D:\do an CTDL\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.Cache
